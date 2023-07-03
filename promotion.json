@@ -1,0 +1,162 @@
+{
+    "blocks": [{
+            "type": "pricing",
+            "pricing": {
+                "background": {
+                    "general_attrs": {
+                        "lm_bg_color": "#FFFFFF",
+                        "dm_bg_color": "#FFFFFF",
+                        "corner_radius": 8,
+                        "border_width": 1,
+                        "lm_border_color": "#FFFFFF",
+                        "dm_border_color": "#FFFFFF",
+                        "top_padding": 2,
+                        "bottom_padding": 3,
+                        "start_padding": 1,
+                        "end_padding": 4
+                    }
+                },
+                "top_image": {
+                    "image_attrs": {
+                        "lm_url": "https://...",
+                        "dm_url": "https://...",
+                        "height": 3,
+                        "width": 5,
+                        "scale_type": "fill/fit"
+                    }
+                },
+                "title": {
+                    "text_attrs": {
+                        "font": "h_17_med",
+                        "lm_color": "#FFFFFF",
+                        "dm_color": "#000000",
+                        "define": "define",
+                        "decoration": "underline/line_through",
+                        "max_lines": 2,
+                        "text_align": "start/end/center",
+                        "letter_case": "uppercase/lowercase"
+                    }
+                },
+                "subtitle": {
+                    "text_attrs": {}
+                },
+                "main_image": {
+                    "image_attrs": {}
+                },
+                "pricing_title": {
+                    "text_attrs": {}
+                },
+                "main_price": {
+                    "text_attrs": {}
+                },
+                "sub_price": {
+                    "text_attrs": {}
+                },
+                "yearly_discount": {
+                    "text_attrs": {}
+                },
+                "monthly_discount": {
+                    "text_attrs": {}
+                },
+                "purchase_btn": {
+                    "text_attrs": {}
+                },
+                "cancel_anytime": {
+                    "text_attrs": {}
+                },
+                "terms": {
+                    "text_attrs": {}
+                },
+                "secure": {
+                    "text_attrs": {}
+                },
+                "lm_bg_secondary_color": "#FFFFFF",
+                "dm_bg_secondary_color": "#FFFFFF",
+                "lm_border_secondary_color": "#FFFFFF",
+                "dm_border_secondary_color": "#FFFFFF",
+                "lm_text_secondary_color": "#FFFFFF",
+                "dm_text_secondary_color": "#000000"
+            }
+        }, {
+            "type": "benefits"
+        }, {
+            "type": "features"
+        }, {
+            "type": "text",
+            "text_attrs": {
+                "font": "h_17_med",
+                "lm_color": "#FFFFFF",
+                "dm_color": "#000000",
+                "define": "define",
+                "decoration": "underline/line_through",
+                "max_lines": 2,
+                "text_align": "start/end/center",
+                "letter_case": "uppercase/lowercase"
+            }
+        }, {
+            "type": "text",
+            "text_attrs": {}
+        }, {
+            "type": "image",
+            "image_attrs": {
+                "lm_url": "https://...",
+                "dm_url": "https://...",
+                "height": 3,
+                "width": 5,
+                "scale_type": "fill/fit"
+            }
+        }, {
+            "type": "pricing",
+            "pricing": {
+                "background": {
+                    "general_attrs": {
+                        "lm_bg_color": "#FFFFFF",
+                        "dm_bg_color": "#FFFFFF"
+                    }
+                },
+                "title": {
+                    "text_attrs": {}
+                },
+                "subtitle": {
+                    "text_attrs": {}
+                },
+                "main_image": {
+                    "image_attrs": {}
+                },
+                "main_price": {
+                    "text_attrs": {}
+                },
+                "sub_price": {
+                    "text_attrs": {}
+                },
+                "yearly_discount": {
+                    "text_attrs": {}
+                },
+                "monthly_discount": {
+                    "text_attrs": {}
+                },
+                "purchase_btn": {
+                    "text_attrs": {}
+                },
+                "cancel_anytime": {
+                    "text_attrs": {}
+                },
+                "terms": {
+                    "text_attrs": {}
+                },
+                "secure": {
+                    "text_attrs": {}
+                },
+                "lm_bg_secondary_color": "#FFFFFF",
+                "dm_bg_secondary_color": "#FFFFFF",
+                "lm_border_secondary_color": "#FFFFFF",
+                "dm_border_secondary_color": "#FFFFFF",
+                "lm_text_secondary_color": "#FFFFFF",
+                "dm_text_secondary_color": "#000000"
+            }
+        },
+        {
+            "type": "faq"
+        }
+    ]
+}
