@@ -46,8 +46,8 @@
 					}, {
 						"type": "image",
 						"image_attrs": {
-							"lm_url": "https://raw.githubusercontent.com/pavlyku-ux/ui-config-files/main/logo_pro_full_lm.png",
-							"dm_url": "https://raw.githubusercontent.com/pavlyku-ux/ui-config-files/main/logo_pro_full_dm.png",
+							"lm_url": "https://raw.githubusercontent.com/pavlyku-ux/ui-config-files/main/offer-included-light.png",
+							"dm_url": "https://raw.githubusercontent.com/pavlyku-ux/ui-config-files/main/offer-included-dark.png",
 							"height": 71,
 							"width": 312
 						}
