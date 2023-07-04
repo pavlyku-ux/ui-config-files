@@ -181,13 +181,17 @@
 						"type": "price_boxes",
 						"main_price": {
 							"text_attrs": {
-								"font": "h_17_med",
+								"font": "b_16_reg",
 								"lm_color": "#000000",
 								"dm_color": "#FFFFFF",
 							}
 						},
 						"sub_price": {
-							"text_attrs": {}
+							"text_attrs": {
+								"font": "b_14_reg",
+								"lm_color": "#000000",
+								"dm_color": "#FFFFFF"
+							}
 						},
 						"discount_yearly": {
 							"text_attrs": {}
