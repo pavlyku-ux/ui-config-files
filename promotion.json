@@ -28,8 +28,8 @@
 						"type": "text",
 						"text_attrs": {
 							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
+							"lm_color": "#000000",
+							"dm_color": "#FFFFFF",
 							"define": "invpro_lp_native_fair_value_title",
 							"text_align": "center",
 							"letter_case": "uppercase"
@@ -38,8 +38,8 @@
 						"type": "text",
 						"text_attrs": {
 							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
+							"lm_color": "#000000",
+							"dm_color": "#FFFFFF",
 							"define": "invpro_lp_native_fair_value_description",
 							"text_align": "center"
 						}
@@ -56,8 +56,8 @@
 						"main_price": {
 							"text_attrs": {
 								"font": "h_17_med",
-								"lm_color": "#FFFFFF",
-								"dm_color": "#000000",
+								"lm_color": "#000000",
+								"dm_color": "#FFFFFF",
 								"define": "$9.99/month. Billed Annually",
 								"decoration": "underline/line_through",
 								"max_lines": 2,
@@ -68,8 +68,8 @@
 						"sub_price": {
 							"text_attrs": {
 								"font": "h_17_med",
-								"lm_color": "#FFFFFF",
-								"dm_color": "#000000",
+								"lm_color": "#000000",
+								"dm_color": "#FFFFFF",
 								"define": "$9.99/month. Billed Annually",
 								"decoration": "underline/line_through",
 								"max_lines": 2,
@@ -80,8 +80,8 @@
 						"discount_yearly": {
 							"text_attrs": {
 								"font": "h_17_med",
-								"lm_color": "#FFFFFF",
-								"dm_color": "#000000",
+								"lm_color": "#000000",
+								"dm_color": "#FFFFFF",
 								"define": "$9.99/month. Billed Annually",
 								"decoration": "underline/line_through",
 								"max_lines": 2,
@@ -92,8 +92,8 @@
 						"discount_monthly": {
 							"text_attrs": {
 								"font": "h_17_med",
-								"lm_color": "#FFFFFF",
-								"dm_color": "#000000",
+								"lm_color": "#000000",
+								"dm_color": "#FFFFFF",
 								"define": "$9.99/month. Billed Annually",
 								"decoration": "underline/line_through",
 								"max_lines": 2,
@@ -105,8 +105,8 @@
 						"type": "purchase_btn",
 						"text_attrs": {
 							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
+							"lm_color": "#000000",
+							"dm_color": "#FFFFFF",
 							"define": "define",
 							"decoration": "underline/line_through",
 							"max_lines": 2,
@@ -117,8 +117,8 @@
 						"type": "text",
 						"text_attrs": {
 							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
+							"lm_color": "#000000",
+							"dm_color": "#FFFFFF",
 							"define": "define",
 							"decoration": "underline/line_through",
 							"max_lines": 2,
@@ -129,8 +129,8 @@
 						"type": "terms",
 						"text_attrs": {
 							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
+							"lm_color": "#000000",
+							"dm_color": "#FFFFFF",
 							"define": "define",
 							"decoration": "underline/line_through",
 							"max_lines": 2,
