@@ -48,8 +48,8 @@
 						"image_attrs": {
 							"lm_url": "https://raw.githubusercontent.com/pavlyku-ux/ui-config-files/main/offer-included-light.png",
 							"dm_url": "https://raw.githubusercontent.com/pavlyku-ux/ui-config-files/main/offer-included-dark.png",
-							"height": 71,
-							"width": 312
+							"height": 50,
+							"width": 228
 						}
 					}, {
 						"type": "price_boxes",
