@@ -27,7 +27,7 @@
 					}, {
 						"type": "text",
 						"text_attrs": {
-							"font": "h_17_med",
+							"font": "h_24_bold",
 							"lm_color": "#000000",
 							"dm_color": "#FFFFFF",
 							"define": "invpro_lp_native_fair_value_title",
@@ -37,7 +37,7 @@
 					}, {
 						"type": "text",
 						"text_attrs": {
-							"font": "h_17_med",
+							"font": "b_16_reg",
 							"lm_color": "#000000",
 							"dm_color": "#FFFFFF",
 							"define": "invpro_lp_native_fair_value_description",
@@ -55,26 +55,16 @@
 						"type": "price_boxes",
 						"main_price": {
 							"text_attrs": {
-								"font": "h_17_med",
+								"font": "b_16_reg",
 								"lm_color": "#000000",
 								"dm_color": "#FFFFFF",
-								"define": "$9.99/month. Billed Annually",
-								"decoration": "underline/line_through",
-								"max_lines": 2,
-								"text_align": "start/end/center",
-								"letter_case": "uppercase/lowercase"
 							}
 						},
 						"sub_price": {
 							"text_attrs": {
-								"font": "h_17_med",
+								"font": "b_14_reg",
 								"lm_color": "#000000",
-								"dm_color": "#FFFFFF",
-								"define": "$9.99/month. Billed Annually",
-								"decoration": "underline/line_through",
-								"max_lines": 2,
-								"text_align": "start/end/center",
-								"letter_case": "uppercase/lowercase"
+								"dm_color": "#FFFFFF"
 							}
 						},
 						"discount_yearly": {
@@ -162,17 +152,39 @@
 				},
 				"blocks": [{
 						"type": "text",
-						"text_attrs": {}
+						"text_attrs": {
+							"font": "h_24_bold",
+							"lm_color": "#000000",
+							"dm_color": "#FFFFFF",
+							"define": "invpro_lp_native_fair_value_title",
+							"text_align": "center",
+							"letter_case": "uppercase"
+						}
 					}, {
 						"type": "text",
-						"text_attrs": {}
+						"text_attrs": {
+							"font": "b_16_reg",
+							"lm_color": "#000000",
+							"dm_color": "#FFFFFF",
+							"define": "invpro_lp_native_fair_value_description",
+							"text_align": "center"
+						}
 					}, {
 						"type": "image",
-						"image_attrs": {}
+						"image_attrs": {
+							"lm_url": "https://raw.githubusercontent.com/pavlyku-ux/ui-config-files/main/offer-included-light.png",
+							"dm_url": "https://raw.githubusercontent.com/pavlyku-ux/ui-config-files/main/offer-included-dark.png",
+							"height": 50,
+							"width": 228
+						}
 					}, {
 						"type": "price_boxes",
 						"main_price": {
-							"text_attrs": {}
+							"text_attrs": {
+								"font": "h_17_med",
+								"lm_color": "#000000",
+								"dm_color": "#FFFFFF",
+							}
 						},
 						"sub_price": {
 							"text_attrs": {}
