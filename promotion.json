@@ -3,150 +3,52 @@
 			"type": "pricing",
 			"pricing": {
 				"background": {
-					"general_attrs": {
-						"lm_bg_color": "#FFFFFF",
-						"dm_bg_color": "#FFFFFF",
-						"corner_radius": 8,
-						"border_width": 1,
-						"lm_border_color": "#FFFFFF",
-						"dm_border_color": "#FFFFFF",
-						"top_padding": 2,
-						"bottom_padding": 3,
-						"start_padding": 1,
-						"end_padding": 4
-					}
+					"general_attrs": {}
 				},
 				"blocks": [{
-					"type": "image",
-					"image_attrs": {
-						"lm_url": "https://...",
-						"dm_url": "https://...",
-						"height": 3,
-						"width": 5,
-						"scale_type": "fill/fit"
-					}
-				}, {
-					"type": "text",
-					"text_attrs": {
-						"font": "h_17_med",
-						"lm_color": "#FFFFFF",
-						"dm_color": "#000000",
-						"define": "define",
-						"decoration": "underline/line_through",
-						"max_lines": 2,
-						"text_align": "start/end/center",
-						"letter_case": "uppercase/lowercase"
-					}
-				}, {
-					"type": "text",
-					"text_attrs": {
-						"font": "h_17_med",
-						"lm_color": "#FFFFFF",
-						"dm_color": "#000000",
-						"define": "define",
-						"decoration": "underline/line_through",
-						"max_lines": 2,
-						"text_align": "start/end/center",
-						"letter_case": "uppercase/lowercase"
-					}
-				}, {
-					"type": "image",
-					"image_attrs": {
-						"lm_url": "https://...",
-						"dm_url": "https://...",
-						"height": 3,
-						"width": 5,
-						"scale_type": "fill/fit"
-					}
-				}, {
-					"type": "price_block_year",
-					"main_price": {
-						"text_attrs": {
-							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
-							"define": "$119.99/year",
-							"decoration": "underline/line_through",
-							"max_lines": 2,
-							"text_align": "start/end/center",
-							"letter_case": "uppercase/lowercase"
+						"type": "image",
+						"image_attrs": {}
+					}, {
+						"type": "text",
+						"text_attrs": {}
+					}, {
+						"type": "text",
+						"text_attrs": {}
+					}, {
+						"type": "image",
+						"image_attrs": {}
+					}, {
+						"type": "price_boxes",
+						"main_price": {
+							"text_attrs": {}
+						},
+						"sub_price": {
+							"text_attrs": {}
+						},
+						"discount_yearly": {
+							"text_attrs": {}
+						},
+						"discount_monthly": {
+							"text_attrs": {}
 						}
+					}, {
+						"type": "purchase_btn",
+						"text_attrs": {}
+					}, {
+						"type": "text",
+						"text_attrs": {}
+					}, {
+						"type": "terms",
+						"text_attrs": {}
+					}, {
+						"type": "secure",
+						"text_attrs": {}
 					},
-					"sub_price": {
-						"text_attrs": {
-							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
-							"define": "$9.99/month. Billed Annually",
-							"decoration": "underline/line_through",
-							"max_lines": 2,
-							"text_align": "start/end/center",
-							"letter_case": "uppercase/lowercase"
-						}
-					},
-					"discount": {
-						"text_attrs": {
-							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
-							"define": "-50%",
-							"decoration": "underline/line_through",
-							"max_lines": 2,
-							"text_align": "start/end/center",
-							"letter_case": "uppercase/lowercase"
-						}
+					{
+						"type": "restore",
+						"text_attrs": {}
 					}
-				}, {
-					"type": "price_block_month",
-					"main_price": {
-						"text_attrs": {
-							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
-							"define": "$19.99/month",
-							"decoration": "underline/line_through",
-							"max_lines": 2,
-							"text_align": "start/end/center",
-							"letter_case": "uppercase/lowercase"
-						}
-					},
-					"sub_price": {
-						"text_attrs": {
-							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
-							"define": "$167.88/year. Billed Monthly",
-							"decoration": "underline/line_through",
-							"max_lines": 2,
-							"text_align": "start/end/center",
-							"letter_case": "uppercase/lowercase"
-						}
-					},
-					"discount": {
-						"text_attrs": {
-							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
-							"define": "-20%",
-							"decoration": "underline/line_through",
-							"max_lines": 2,
-							"text_align": "start/end/center",
-							"letter_case": "uppercase/lowercase"
-						}
-					}
-				}, {
-					"type": "purchase_btn",
-					"text_attrs": {}
-				}, {
-					"type": "cancel_anytime",
-					"text_attrs": {}
-				}, {
-					"type": "terms",
-					"text_attrs": {}
-				}, {
-					"type": "secure",
-					"text_attrs": {}
-				}]
+				]
 			}
 		},
 		{
@@ -156,166 +58,54 @@
 			"type": "features"
 		},
 		{
-			"type": "text",
-			"text_attrs": {
-				"font": "h_17_med",
-				"lm_color": "#FFFFFF",
-				"dm_color": "#000000",
-				"define": "define",
-				"decoration": "underline/line_through",
-				"max_lines": 2,
-				"text_align": "start/end/center",
-				"letter_case": "uppercase/lowercase"
-			}
-		},
-		{
-			"type": "text",
-			"text_attrs": {}
-		},
-		{
-			"type": "image",
-			"image_attrs": {
-				"lm_url": "https://...",
-				"dm_url": "https://...",
-				"height": 3,
-				"width": 5,
-				"scale_type": "fill/fit"
-			}
-		},
-		{
 			"type": "pricing",
 			"pricing": {
 				"background": {
-					"general_attrs": {
-						"lm_bg_color": "#FFFFFF",
-						"dm_bg_color": "#FFFFFF"
-					}
+					"general_attrs": {}
 				},
 				"blocks": [{
-					"type": "text",
-					"text_attrs": {
-						"font": "h_17_med",
-						"lm_color": "#FFFFFF",
-						"dm_color": "#000000",
-						"define": "define",
-						"decoration": "underline/line_through",
-						"max_lines": 2,
-						"text_align": "start/end/center",
-						"letter_case": "uppercase/lowercase"
-					}
-				}, {
-					"type": "text",
-					"text_attrs": {
-						"font": "h_17_med",
-						"lm_color": "#FFFFFF",
-						"dm_color": "#000000",
-						"define": "define",
-						"decoration": "underline/line_through",
-						"max_lines": 2,
-						"text_align": "start/end/center",
-						"letter_case": "uppercase/lowercase"
-					}
-				}, {
-					"type": "image",
-					"image_attrs": {
-						"lm_url": "https://...",
-						"dm_url": "https://...",
-						"height": 3,
-						"width": 5,
-						"scale_type": "fill/fit"
-					}
-				}, {
-					"type": "price_block_year",
-					"main_price": {
-						"text_attrs": {
-							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
-							"define": "$119.99/year",
-							"decoration": "underline/line_through",
-							"max_lines": 2,
-							"text_align": "start/end/center",
-							"letter_case": "uppercase/lowercase"
+						"type": "text",
+						"text_attrs": {}
+					}, {
+						"type": "text",
+						"text_attrs": {}
+					}, {
+						"type": "image",
+						"image_attrs": {}
+					}, {
+						"type": "price_boxes",
+						"main_price": {
+							"text_attrs": {}
+						},
+						"sub_price": {
+							"text_attrs": {}
+						},
+						"discount_yearly": {
+							"text_attrs": {}
+						},
+						"discount_monthly": {
+							"text_attrs": {}
 						}
+					}, {
+						"type": "purchase_btn",
+						"text_attrs": {}
+					}, {
+						"type": "text",
+						"text_attrs": {}
+					}, {
+						"type": "terms",
+						"text_attrs": {}
+					}, {
+						"type": "secure",
+						"text_attrs": {}
 					},
-					"sub_price": {
-						"text_attrs": {
-							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
-							"define": "$9.99/month. Billed Annually",
-							"decoration": "underline/line_through",
-							"max_lines": 2,
-							"text_align": "start/end/center",
-							"letter_case": "uppercase/lowercase"
-						}
-					},
-					"discount": {
-						"text_attrs": {
-							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
-							"define": "-50%",
-							"decoration": "underline/line_through",
-							"max_lines": 2,
-							"text_align": "start/end/center",
-							"letter_case": "uppercase/lowercase"
-						}
+					{
+						"type": "restore",
+						"text_attrs": {}
 					}
-				}, {
-					"type": "price_block_month",
-					"main_price": {
-						"text_attrs": {
-							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
-							"define": "$19.99/month",
-							"decoration": "underline/line_through",
-							"max_lines": 2,
-							"text_align": "start/end/center",
-							"letter_case": "uppercase/lowercase"
-						}
-					},
-					"sub_price": {
-						"text_attrs": {
-							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
-							"define": "$167.88/year. Billed Monthly",
-							"decoration": "underline/line_through",
-							"max_lines": 2,
-							"text_align": "start/end/center",
-							"letter_case": "uppercase/lowercase"
-						}
-					},
-					"discount": {
-						"text_attrs": {
-							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
-							"define": "-20%",
-							"decoration": "underline/line_through",
-							"max_lines": 2,
-							"text_align": "start/end/center",
-							"letter_case": "uppercase/lowercase"
-						}
-					}
-				}, {
-					"type": "purchase_btn",
-					"text_attrs": {}
-				}, {
-					"type": "cancel_anytime",
-					"text_attrs": {}
-				}, {
-					"type": "terms",
-					"text_attrs": {}
-				}, {
-					"type": "secure",
-					"text_attrs": {}
-				}]
+				]
 			}
-		},
-		{
+		}, {
 			"type": "faq"
 		}
 	]
