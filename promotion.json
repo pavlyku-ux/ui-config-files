@@ -102,20 +102,20 @@
 					}, {
 						"type": "secure",
 						"text_attrs": {
-								"font": "h_17_med",
-								"lm_color": "#000000",
-								"dm_color": "#FFFFFF",
-								"define": "-50%"
-							}
+							"font": "h_17_med",
+							"lm_color": "#000000",
+							"dm_color": "#FFFFFF",
+							"define": "-50%"
+						}
 					},
 					{
 						"type": "restore",
 						"text_attrs": {
-								"font": "h_17_med",
-								"lm_color": "#000000",
-								"dm_color": "#FFFFFF",
-								"define": "-50%"
-							}
+							"font": "h_17_med",
+							"lm_color": "#000000",
+							"dm_color": "#FFFFFF",
+							"define": "-50%"
+						}
 					}
 				]
 			}
@@ -165,7 +165,7 @@
 							"text_attrs": {
 								"font": "b_16_reg",
 								"lm_color": "#000000",
-								"dm_color": "#FFFFFF",
+								"dm_color": "#FFFFFF"
 							}
 						},
 						"sub_price": {
