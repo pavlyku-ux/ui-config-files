@@ -57,7 +57,7 @@
 							"text_attrs": {
 								"font": "b_16_reg",
 								"lm_color": "#000000",
-								"dm_color": "#FFFFFF",
+								"dm_color": "#FFFFFF"
 							}
 						},
 						"sub_price": {
@@ -72,11 +72,7 @@
 								"font": "h_17_med",
 								"lm_color": "#000000",
 								"dm_color": "#FFFFFF",
-								"define": "$9.99/month. Billed Annually",
-								"decoration": "underline/line_through",
-								"max_lines": 2,
-								"text_align": "start/end/center",
-								"letter_case": "uppercase/lowercase"
+								"define": "-50%"
 							}
 						},
 						"discount_monthly": {
@@ -84,11 +80,7 @@
 								"font": "h_17_med",
 								"lm_color": "#000000",
 								"dm_color": "#FFFFFF",
-								"define": "$9.99/month. Billed Annually",
-								"decoration": "underline/line_through",
-								"max_lines": 2,
-								"text_align": "start/end/center",
-								"letter_case": "uppercase/lowercase"
+								"define": "-20%"
 							}
 						}
 					}, {
@@ -97,23 +89,7 @@
 							"font": "h_17_med",
 							"lm_color": "#000000",
 							"dm_color": "#FFFFFF",
-							"define": "define",
-							"decoration": "underline/line_through",
-							"max_lines": 2,
-							"text_align": "start/end/center",
-							"letter_case": "uppercase/lowercase"
-						}
-					}, {
-						"type": "text",
-						"text_attrs": {
-							"font": "h_17_med",
-							"lm_color": "#000000",
-							"dm_color": "#FFFFFF",
-							"define": "define",
-							"decoration": "underline/line_through",
-							"max_lines": 2,
-							"text_align": "start/end/center",
-							"letter_case": "uppercase/lowercase"
+							"define": "define"
 						}
 					}, {
 						"type": "terms",
@@ -121,19 +97,25 @@
 							"font": "h_17_med",
 							"lm_color": "#000000",
 							"dm_color": "#FFFFFF",
-							"define": "define",
-							"decoration": "underline/line_through",
-							"max_lines": 2,
-							"text_align": "start/end/center",
-							"letter_case": "uppercase/lowercase"
+							"define": "define"
 						}
 					}, {
 						"type": "secure",
-						"text_attrs": {}
+						"text_attrs": {
+								"font": "h_17_med",
+								"lm_color": "#000000",
+								"dm_color": "#FFFFFF",
+								"define": "-50%"
+							}
 					},
 					{
 						"type": "restore",
-						"text_attrs": {}
+						"text_attrs": {
+								"font": "h_17_med",
+								"lm_color": "#000000",
+								"dm_color": "#FFFFFF",
+								"define": "-50%"
+							}
 					}
 				]
 			}
@@ -201,9 +183,6 @@
 						}
 					}, {
 						"type": "purchase_btn",
-						"text_attrs": {}
-					}, {
-						"type": "text",
 						"text_attrs": {}
 					}, {
 						"type": "terms",
