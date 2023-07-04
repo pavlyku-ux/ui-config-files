@@ -5,7 +5,7 @@
 				"background": {
 					"general_attrs": {
 						"lm_bg_color": "#FFFFFF",
-						"dm_bg_color": "#FFFFFF",
+						"dm_bg_color": "#000000",
 						"corner_radius": 8,
 						"border_width": 1,
 						"lm_border_color": "#FFFFFF",
