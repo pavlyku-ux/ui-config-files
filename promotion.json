@@ -19,104 +19,131 @@
 				"blocks": [{
 						"type": "image",
 						"image_attrs": {
-						"lm_url": "https://...",
-						"dm_url": "https://...",
-						"height": 3,
-						"width": 5,
-						"scale_type": "fill/fit"
-					}
+							"lm_url": "https://...",
+							"dm_url": "https://...",
+							"height": 3,
+							"width": 5,
+							"scale_type": "fill/fit"
+						}
 					}, {
 						"type": "text",
 						"text_attrs": {
-						"font": "h_17_med",
-						"lm_color": "#FFFFFF",
-						"dm_color": "#000000",
-						"define": "define",
-						"decoration": "underline/line_through",
-						"max_lines": 2,
-						"text_align": "start/end/center",
-						"letter_case": "uppercase/lowercase"
-					}
+							"font": "h_17_med",
+							"lm_color": "#FFFFFF",
+							"dm_color": "#000000",
+							"define": "define",
+							"decoration": "underline/line_through",
+							"max_lines": 2,
+							"text_align": "start/end/center",
+							"letter_case": "uppercase/lowercase"
+						}
 					}, {
 						"type": "text",
 						"text_attrs": {
-						"font": "h_17_med",
-						"lm_color": "#FFFFFF",
-						"dm_color": "#000000",
-						"define": "define",
-						"decoration": "underline/line_through",
-						"max_lines": 2,
-						"text_align": "start/end/center",
-						"letter_case": "uppercase/lowercase"
-					}
+							"font": "h_17_med",
+							"lm_color": "#FFFFFF",
+							"dm_color": "#000000",
+							"define": "define",
+							"decoration": "underline/line_through",
+							"max_lines": 2,
+							"text_align": "start/end/center",
+							"letter_case": "uppercase/lowercase"
+						}
 					}, {
 						"type": "image",
 						"image_attrs": {
-						"lm_url": "https://...",
-						"dm_url": "https://...",
-						"height": 3,
-						"width": 5,
-						"scale_type": "fill/fit"
-					}
+							"lm_url": "https://...",
+							"dm_url": "https://...",
+							"height": 3,
+							"width": 5,
+							"scale_type": "fill/fit"
+						}
 					}, {
 						"type": "price_boxes",
 						"main_price": {
 							"text_attrs": {
-							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
-							"define": "$9.99/month. Billed Annually",
-							"decoration": "underline/line_through",
-							"max_lines": 2,
-							"text_align": "start/end/center",
-							"letter_case": "uppercase/lowercase"
-						}
+								"font": "h_17_med",
+								"lm_color": "#FFFFFF",
+								"dm_color": "#000000",
+								"define": "$9.99/month. Billed Annually",
+								"decoration": "underline/line_through",
+								"max_lines": 2,
+								"text_align": "start/end/center",
+								"letter_case": "uppercase/lowercase"
+							}
 						},
 						"sub_price": {
 							"text_attrs": {
-							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
-							"define": "$9.99/month. Billed Annually",
-							"decoration": "underline/line_through",
-							"max_lines": 2,
-							"text_align": "start/end/center",
-							"letter_case": "uppercase/lowercase"
-						}
+								"font": "h_17_med",
+								"lm_color": "#FFFFFF",
+								"dm_color": "#000000",
+								"define": "$9.99/month. Billed Annually",
+								"decoration": "underline/line_through",
+								"max_lines": 2,
+								"text_align": "start/end/center",
+								"letter_case": "uppercase/lowercase"
+							}
 						},
 						"discount_yearly": {
 							"text_attrs": {
-							"font": "h_17_med",
-							"lm_color": "#FFFFFF",
-							"dm_color": "#000000",
-							"define": "$9.99/month. Billed Annually",
-							"decoration": "underline/line_through",
-							"max_lines": 2,
-							"text_align": "start/end/center",
-							"letter_case": "uppercase/lowercase"
-						}
+								"font": "h_17_med",
+								"lm_color": "#FFFFFF",
+								"dm_color": "#000000",
+								"define": "$9.99/month. Billed Annually",
+								"decoration": "underline/line_through",
+								"max_lines": 2,
+								"text_align": "start/end/center",
+								"letter_case": "uppercase/lowercase"
+							}
 						},
 						"discount_monthly": {
 							"text_attrs": {
+								"font": "h_17_med",
+								"lm_color": "#FFFFFF",
+								"dm_color": "#000000",
+								"define": "$9.99/month. Billed Annually",
+								"decoration": "underline/line_through",
+								"max_lines": 2,
+								"text_align": "start/end/center",
+								"letter_case": "uppercase/lowercase"
+							}
+						}
+					}, {
+						"type": "purchase_btn",
+						"text_attrs": {
 							"font": "h_17_med",
 							"lm_color": "#FFFFFF",
 							"dm_color": "#000000",
-							"define": "$9.99/month. Billed Annually",
+							"define": "define",
 							"decoration": "underline/line_through",
 							"max_lines": 2,
 							"text_align": "start/end/center",
 							"letter_case": "uppercase/lowercase"
 						}
-						}
-					}, {
-						"type": "purchase_btn",
-						"text_attrs": {}
 					}, {
 						"type": "text",
-						"text_attrs": {}
+						"text_attrs": {
+							"font": "h_17_med",
+							"lm_color": "#FFFFFF",
+							"dm_color": "#000000",
+							"define": "define",
+							"decoration": "underline/line_through",
+							"max_lines": 2,
+							"text_align": "start/end/center",
+							"letter_case": "uppercase/lowercase"
+						}
 					}, {
 						"type": "terms",
-						"text_attrs": {}
+						"text_attrs": {
+							"font": "h_17_med",
+							"lm_color": "#FFFFFF",
+							"dm_color": "#000000",
+							"define": "define",
+							"decoration": "underline/line_through",
+							"max_lines": 2,
+							"text_align": "start/end/center",
+							"letter_case": "uppercase/lowercase"
+						}
 					}, {
 						"type": "secure",
 						"text_attrs": {}
